@@ -12,4 +12,4 @@ Overall, this project showcases my ability to use Power BI to create visually ap
 ![Overview](ScreenShoot/Overview.PNG)
 ![Product](ScreenShoot/Product.PNG)
 ![Shipment](ScreenShoot/Shipment.PNG)
-![OrderDetail](ScreenShoot/Order Detail.PNG)
+![OrderDetail](ScreenShoot/OrderDetail.PNG)
