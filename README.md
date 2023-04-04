@@ -9,7 +9,7 @@ The dashboard is designed to be interactive and user-friendly, allowing users to
 
 Overall, this project showcases my ability to use Power BI to create visually appealing and informative dashboards that provide valuable insights into sales performance.
 
-![Overview](ScreenShoot/Overview.png)
-![Product](ScreenShoot/Product.png)
-![Shipment](ScreenShoot/Shipment.png)
-![OrderDetail](ScreenShoot/OrderDetail.png)
+![Overview](ScreenShoot/Overview.PNG)
+![Product](ScreenShoot/Product.PNG)
+![Shipment](ScreenShoot/Shipment.PNG)
+![OrderDetail](ScreenShoot/Order Detail.PNG)
